@@ -419,7 +419,7 @@ margin-bottom: 80px;
 .contact_header::before{
 	content: '';
 	width: 30%;
-	height: 5px;
+	height: 4px;
 	background-color: #e76128;
 	position: absolute;
 	left: 105px;
